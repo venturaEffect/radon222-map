@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://zaesarius.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://venturaeffect.github.io/radon222-map/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1xnrpDw2aKkd1mCehgs2uikbuD39M2C_DDQ3CaY4iOsM/edit#gid=0
 
 ## Create your own
